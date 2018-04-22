@@ -1,0 +1,9 @@
+Unit testing on the pen classes was done using three sets of input. 
+Good input, which represents normal conditions.
+Bad input and empty input which represent bad conditions. 
+
+Bad input worked on most functions as input checking was not implemented.
+
+In Pen.cs and PenManagementController.cs, all functions passed testing except searchPen(). 
+SearchPen() did not pass testing as the database has not been incorporated in the program yet.
+
